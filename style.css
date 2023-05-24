@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Gamja+Flower&display=swap');
+
+* {
+    font-family: "NeoDunggeumoPro-Regular";
+}
+
+body {
+    background-image: url("./image/background.jpeg");
+}
+
+#qna {
+    display: none;
+}
+
+.qBox {
+    background-color: white;
+    width: 80%;
+    text-align: center;
+    box-shadow: 5px 5px rgb(0, 0, 0, 0.1);
+    font-size: 20px;
+}
+
+.button-wrap {
+    display: grid;
+}
+
+main {
+    background-color: white;
+    width: 80px;
+    text-align: center;
+    box-shadow: 5px 5px rgb(0, 0, 0, 0.1);
+}
+
+#result {
+    display: none;
+}
